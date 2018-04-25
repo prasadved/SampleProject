@@ -1,0 +1,2 @@
+Have a good day
+This is second line added by Vara Prasad to Validate the Commit and Push
